@@ -30,7 +30,3 @@ Este projeto está licenciado sob a licença gratuita.
 
 ## Contato
 Para mais informações, entre em contato com Fernando Ribeiro através do email nandoribeiro.df@gmail.com
-
----
-
-Sinta-se à vontade para modificar conforme necessário!
